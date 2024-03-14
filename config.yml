@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Mithu225/decap-test-01
+  repo: Vabrishamii/Decap-demo
   branch: main # Branch to update (optional; defaults to master)
   base_url: https://decap-oauth-vercel.vercel.app
   auth_endpoint: /api/auth
